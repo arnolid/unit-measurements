@@ -1,0 +1,24 @@
+/* div {
+    font-size: 20px;
+  }
+  
+  html {
+    font-size: 18px;
+  }
+  
+  .rem {
+    display: inline-block;
+  }
+  
+  .em {
+    padding: 2em;
+    background-color: grey;
+  }
+  
+  .rem {
+    padding: 3rem;
+    background-color: cyan;
+  } */
+  nav {position: sticky;
+       top: 100px;
+}
